@@ -4,7 +4,7 @@ email:       shubhamkank@gmail.com
 author:      Shubham Kankaria
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://shubhamkank.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -51,11 +51,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: shubhamkank
 reddit_username:
 bitbucket_username:
-stackoverflow_id:
-twitter_username:
+stackoverflow_id: 1711192
+twitter_username: shubhamkank
 skype_username:
 steam_nickname:
 google_plus_id:
